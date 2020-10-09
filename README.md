@@ -1,4 +1,4 @@
-<img src="https://github.com/KaterinaKutsyr/PORTFOLIO/blob/main/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="10" height="10" />
+<img src="https://github.com/KaterinaKutsyr/PORTFOLIO/blob/main/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="30" height="30" />
 # PORTFOLIO
 **@Yandex-Ptacticum**
 
