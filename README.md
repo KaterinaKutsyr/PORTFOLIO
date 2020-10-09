@@ -1,10 +1,11 @@
+<img src="https://github.com/KaterinaKutsyr/PORTFOLIO/blob/main/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="20" height="200" />
 # PORTFOLIO
 **@Yandex-Ptacticum**
 
 В данный репозиторий включены мои проекты, которые были выполнены в процессе обучения профессии *"Специалист по Data Science"* в Яндекс.Практикуме.
 
 # ПРОЕКТЫ
-<img src="https://github.com/KaterinaKutsyr/PORTFOLIO/blob/main/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="200" height="200" />
+<img src="https://github.com/KaterinaKutsyr/PORTFOLIO/blob/main/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="20" height="200" />
 ![alt-текст](https://github.com/KaterinaKutsyr/PORTFOLIO/blob/main/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png = 10x "Текст заголовка логотипа 1"){ width: 10px; }
 |Название	|Описание	|Навыки	|Используемые библиотеки|
 Восстановление золота из руды	|Обучение моделей для оптимизации технологического процесса восстановления золота.|	Исследовательский анализ, проверка статистических гипотез, визуализация данных, регрессия, классификация, |bootstrap	pandas, NumPy, matplotlib, Seaborn, SciPy, scikit-learn, CatBoost, LightGBM, XGBoost|
